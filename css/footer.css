@@ -1,0 +1,20 @@
+footer {
+	background-color: #2A1D1D;
+
+}
+.container_footer{
+	padding:30px 0 ;
+	display: flex;
+	justify-content: space-between;
+}
+.footer_title{
+	color: white;
+	font-family: 'Source Code Pro', monospace;
+}
+.footer_text{
+	font-family: 'Source Code Pro', monospace;
+}
+.footer_list{
+	display: flex;	
+	gap: 30px;
+}
